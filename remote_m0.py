@@ -4,8 +4,6 @@ import telnetlib
 import json
 from Crypto.Hash import SHA256
 
-#'flag{but_they_were_all_of_them_deceived_for_a_small_subgroup_was_made102612ebec4be694234101737e6a88a2}'
-
 
 
 def readline():
